@@ -1,2 +1,2 @@
 # Gerenciador de Despesas
-## Desafio II - React / Typescritp
+## Desafio II - React / Typescript
